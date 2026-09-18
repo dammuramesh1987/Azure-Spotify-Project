@@ -1,0 +1,15 @@
+{
+	"name": "df-dammuSpotify",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "463ae058-6670-43d7-9fc2-b66a178f1efb",
+		"tenantId": "446e01ca-048d-48cf-a90c-aa008dff6683"
+	}
+}
